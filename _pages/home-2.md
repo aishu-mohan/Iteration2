@@ -20,7 +20,7 @@ post_date: 2020-09-24 04:15:21
 			<h2>game</h2>		
 		<p>The Sport Seeker game will explore different sport equipment to get a better understanding of sport using an interactive game and quiz. It aims at having fun while also informing you in the right methods to learn more about sports.</p>		
 			<a href="http://sportseeker.ml/wp-content/gameFinal" role="button">
-						Find out more
+						Play Game
 					</a>
 			<h2>Backyard Play</h2>		
 		<p>Learn how to play in a comfortable and healthy environment, with our comprehensive videos that explain how you can play with your friends or siblings at home or outdoor spaces. These activities are gears to make your body more flexible and agile.</p>		
