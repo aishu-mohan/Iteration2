@@ -28,7 +28,7 @@ post_date: 2020-09-24 04:15:21
 						Find out more
 					</a>
 			<h2>achieving your goals</h2>		
-		<p>Getting in shape forces you to face your biggest challenges, and sticking to a regular routine for a long period of time. Explore the various sports for speech/hearing impaired/wheelchair users along with contact details to ensure you know how to focus on team activities and sport to reach your goals. </p>		
+		<p>Getting in shape forces you to face your biggest challenges, and sticking to a regular routine for a long period of time. Explore the various sports for speech/hearing impaired/wheelchair users along with contact details to ensure you know how to focus on team activities and sports.</p>		
 			<a href="https://sportseeker.ml/?page_id=476" role="button">
 						Find out more
 					</a>
