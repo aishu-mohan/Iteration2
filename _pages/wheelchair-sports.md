@@ -19,7 +19,7 @@ post_date: 2020-09-16 13:47:24
 						Learn more
 					</a>
 										<img width="150" height="150" src="https://sportseeker.ml/wp-content/uploads/2020/09/Para-Athletics1-150x150.jpg" alt="" loading="lazy" />											
-			<h3><br>Para athletics</h3>		
+			<h3>Para athletics</h3>		
 			<a href="https://sportseeker.ml/?page_id=557" role="button">
 						Learn more
 					</a>
