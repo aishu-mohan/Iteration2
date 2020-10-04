@@ -10,9 +10,6 @@ post_date: 2020-09-24 04:15:21
 ---
 <h2>Anyone can play sport</h2>		
 		<p>Don't let your disability stop you from exploring and playing sport</p>		
-			<a role="button">
-						Find a sport
-					</a>
 			<figure><a href="http://sportseeker.ml/wp-content/gameFinal"><img width="143" height="143" src="https://sportseeker.ml/wp-content/uploads/2020/09/22.png" alt="" loading="lazy" /></a></figure><h3><a href="http://sportseeker.ml/wp-content/gameFinal">Sport Seeker Game</a></h3><p>Check your mental and physical agility with this interactive game.</p>		
 			<figure><a href="https://sportseeker.ml/?page_id=321"><img width="143" height="143" src="https://sportseeker.ml/wp-content/uploads/2020/09/21.png" alt="" loading="lazy" /></a></figure><h3><a href="https://sportseeker.ml/?page_id=321">Backyard Play</a></h3><p>Restricted by COVID? Explore these activities to stay active at home.</p>		
 			<figure><a href="https://sportseeker.ml/?page_id=476"><img width="143" height="143" src="https://sportseeker.ml/wp-content/uploads/2020/09/20.png" alt="" loading="lazy" /></a></figure><h3><a href="https://sportseeker.ml/?page_id=476">Professional Sport</a></h3><p>Explore the categories of professional sport available for people with disabilities .</p>		
